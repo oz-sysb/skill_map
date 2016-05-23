@@ -15,3 +15,6 @@
 ### ジョブ説明
 
 ![image](https://cloud.githubusercontent.com/assets/7553928/10837805/fd3191a6-7f00-11e5-8b39-44e3ddfd508d.png)
+
+### 第三項作成時の追加項目など
+https://github.com/oz-sysb/Improvement/issues/1347
